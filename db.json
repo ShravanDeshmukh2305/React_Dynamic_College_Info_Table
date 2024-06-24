@@ -1,0 +1,705 @@
+
+{
+    "colleges": [
+      {
+        "CD Rank": 1,
+        "College": {
+          "Name": "Indian Institute of Technology Bombay",
+          "Address": "Mumbai, Maharashtra | AICTE, UGC Approved",
+          "Branch": "B Tech Computer Science And Engineering",
+          "Cutoff": "JEE Advanced 2023 Cutoff: 114",
+          "Logo": "https://upload.wikimedia.org/wikipedia/en/thumb/1/1d/Indian_Institute_of_Technology_Bombay_Logo.svg/1200px-Indian_Institute_of_Technology_Bombay_Logo.svg.png"
+        },
+        "Course Fees (Rs)": "900,000",
+        "Placement": "95%",
+        "User Review": "4.8",
+        "Ranking": 1
+      },
+      {
+        "CD Rank": 2,
+        "College": {
+          "Name": "Indian Institute of Technology Delhi",
+          "Address": "New Delhi, Delhi | AICTE, UGC Approved",
+          "Branch": "B Tech Electrical Engineering",
+          "Cutoff": "JEE Advanced 2023 Cutoff: 120",
+          "Logo": "https://upload.wikimedia.org/wikipedia/en/thumb/f/fd/Indian_Institute_of_Technology_Delhi_Logo.svg/1200px-Indian_Institute_of_Technology_Delhi_Logo.svg.png"
+        },
+        "Course Fees (Rs)": "920,000",
+        "Placement": "94%",
+        "User Review": "4.7",
+        "Ranking": 2
+      },
+      {
+        "CD Rank": 3,
+        "College": {
+          "Name": "Indian Institute of Technology Madras",
+          "Address": "Chennai, Tamil Nadu | AICTE, UGC Approved",
+          "Branch": "B Tech Mechanical Engineering",
+          "Cutoff": "JEE Advanced 2023 Cutoff: 125",
+          "Logo": "https://seeklogo.com/images/I/iit-kharagpur-logo-731A3C2EF1-seeklogo.com.png"
+        },
+        "Course Fees (Rs)": "910,000",
+        "Placement": "93%",
+        "User Review": "4.6",
+        "Ranking": 3
+      },
+      {
+        "CD Rank": 4,
+        "College": {
+          "Name": "Indian Institute of Technology Kanpur",
+          "Address": "Kanpur, Uttar Pradesh | AICTE, UGC Approved",
+          "Branch": "B Tech Civil Engineering",
+          "Cutoff": "JEE Advanced 2023 Cutoff: 130",
+          "Logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTtRu4KP6B3IupNAufFzZioH7kL-3FHLnFFAg&s"
+        },
+        "Course Fees (Rs)": "890,000",
+        "Placement": "92%",
+        "User Review": "4.5",
+        "Ranking": 4
+      },
+      {
+        "CD Rank": 5,
+        "College": {
+          "Name": "Indian Institute of Technology Kharagpur",
+          "Address": "Kharagpur, West Bengal | AICTE, UGC Approved",
+          "Branch": "B Tech Aerospace Engineering",
+          "Cutoff": "JEE Advanced 2023 Cutoff: 135",
+          "Logo": "https://www.pngkit.com/png/detail/802-8025099_advertisement-iit-bombay-logo.png"
+        },
+        "Course Fees (Rs)": "880,000",
+        "Placement": "91%",
+        "User Review": "4.4",
+        "Ranking": 5
+      },
+      {
+        "CD Rank": 6,
+        "College": {
+          "Name": "Indian Institute of Technology Roorkee",
+          "Address": "Roorkee, Uttarakhand | AICTE, UGC Approved",
+          "Branch": "B Tech Chemical Engineering",
+          "Cutoff": "JEE Advanced 2023 Cutoff: 140",
+          "Logo": "https://web.iitd.ac.in/~rbose/images/national/iitm.jpg"
+        },
+        "Course Fees (Rs)": "870,000",
+        "Placement": "90%",
+        "User Review": "4.3",
+        "Ranking": 6
+      },
+      {
+        "CD Rank": 7,
+        "College": {
+          "Name": "Indian Institute of Technology Guwahati",
+          "Address": "Guwahati, Assam | AICTE, UGC Approved",
+          "Branch": "B Tech Biotechnology",
+          "Cutoff": "JEE Advanced 2023 Cutoff: 145",
+          "Logo": "https://qph.cf2.quoracdn.net/main-qimg-6ee87cb2305c449707be97c75177aacb"
+        },
+        "Course Fees (Rs)": "860,000",
+        "Placement": "89%",
+        "User Review": "4.2",
+        "Ranking": 7
+      },
+      {
+        "CD Rank": 8,
+        "College": {
+          "Name": "Indian Institute of Technology Hyderabad",
+          "Address": "Hyderabad, Telangana | AICTE, UGC Approved",
+          "Branch": "B Tech Electronics and Communication Engineering",
+          "Cutoff": "JEE Advanced 2023 Cutoff: 150",
+          "Logo": "https://upload.wikimedia.org/wikipedia/en/thumb/1/1d/Indian_Institute_of_Technology_Bombay_Logo.svg/1200px-Indian_Institute_of_Technology_Bombay_Logo.svg.png"
+        },
+        "Course Fees (Rs)": "850,000",
+        "Placement": "88%",
+        "User Review": "4.1",
+        "Ranking": 8
+      },
+      {
+        "CD Rank": 9,
+        "College": {
+          "Name": "National Institute of Technology Tiruchirappalli",
+          "Address": "Tiruchirappalli, Tamil Nadu | AICTE, UGC Approved",
+          "Branch": "B Tech Computer Science And Engineering",
+          "Cutoff": "JEE Main 2023 Cutoff: 150",
+          "Logo": "https://upload.wikimedia.org/wikipedia/en/thumb/f/fd/Indian_Institute_of_Technology_Delhi_Logo.svg/1200px-Indian_Institute_of_Technology_Delhi_Logo.svg.png"
+        },
+        "Course Fees (Rs)": "500,000",
+        "Placement": "87%",
+        "User Review": "4.0",
+        "Ranking": 9
+      },
+      {
+        "CD Rank": 10,
+        "College": {
+          "Name": "Indian Institute of Technology Indore",
+          "Address": "Indore, Madhya Pradesh | AICTE, UGC Approved",
+          "Branch": "B Tech Metallurgical Engineering",
+          "Cutoff": "JEE Advanced 2023 Cutoff: 155",
+          "Logo": "https://seeklogo.com/images/I/iit-kharagpur-logo-731A3C2EF1-seeklogo.com.png"
+        },
+        "Course Fees (Rs)": "840,000",
+        "Placement": "86%",
+        "User Review": "3.9",
+        "Ranking": 10
+      },
+      {
+        "CD Rank": 11,
+        "College": {
+          "Name": "Indian Institute of Technology Varanasi",
+          "Address": "Varanasi, Uttar Pradesh | AICTE, UGC Approved",
+          "Branch": "B Tech Mining Engineering",
+          "Cutoff": "JEE Advanced 2023 Cutoff: 160",
+          "Logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTtRu4KP6B3IupNAufFzZioH7kL-3FHLnFFAg&s"
+        },
+        "Course Fees (Rs)": "830,000",
+        "Placement": "85%",
+        "User Review": "3.8",
+        "Ranking": 11
+      },
+      {
+        "CD Rank": 12,
+        "College": {
+          "Name": "National Institute of Technology Karnataka",
+          "Address": "Surathkal, Karnataka | AICTE, UGC Approved",
+          "Branch": "B Tech Information Technology",
+          "Cutoff": "JEE Main 2023 Cutoff: 160",
+          "Logo": "https://www.pngkit.com/png/detail/802-8025099_advertisement-iit-bombay-logo.png"
+        },
+        "Course Fees (Rs)": "510,000",
+        "Placement": "84%",
+        "User Review": "3.7",
+        "Ranking": 12
+      },
+      {
+        "CD Rank": 13,
+        "College": {
+          "Name": "Indian Institute of Technology (ISM) Dhanbad",
+          "Address": "Dhanbad, Jharkhand | AICTE, UGC Approved",
+          "Branch": "B Tech Petroleum Engineering",
+          "Cutoff": "JEE Advanced 2023 Cutoff: 165",
+          "Logo": "https://qph.cf2.quoracdn.net/main-qimg-6ee87cb2305c449707be97c75177aacb"
+        },
+        "Course Fees (Rs)": "820,000",
+        "Placement": "83%",
+        "User Review": "3.6",
+        "Ranking": 13
+      },
+      {
+        "CD Rank": 14,
+        "College": {
+          "Name": "Indian Institute of Technology Bhilai",
+          "Address": "Bhilai, Chhattisgarh | AICTE, UGC Approved",
+          "Branch": "B Tech Computer Science And Engineering",
+          "Cutoff": "JEE Advanced 2023 Cutoff: 170",
+          "Logo": "https://upload.wikimedia.org/wikipedia/en/thumb/1/1d/Indian_Institute_of_Technology_Bombay_Logo.svg/1200px-Indian_Institute_of_Technology_Bombay_Logo.svg.png"
+        },
+        "Course Fees (Rs)": "810,000",
+        "Placement": "82%",
+        "User Review": "3.5",
+        "Ranking": 14
+      },
+      {
+        "CD Rank": 15,
+        "College": {
+          "Name": "Indian Institute of Technology Mandi",
+          "Address": "Mandi, Himachal Pradesh | AICTE, UGC Approved",
+          "Branch": "B Tech Electrical Engineering",
+          "Cutoff": "JEE Advanced 2023 Cutoff: 175",
+          "Logo": "https://upload.wikimedia.org/wikipedia/en/thumb/f/fd/Indian_Institute_of_Technology_Delhi_Logo.svg/1200px-Indian_Institute_of_Technology_Delhi_Logo.svg.png"
+        },
+        "Course Fees (Rs)": "800,000",
+        "Placement": "81%",
+        "User Review": "3.4",
+        "Ranking": 15
+      },
+      {
+        "CD Rank": 16,
+        "College": {
+          "Name": "National Institute of Technology Warangal",
+          "Address": "Warangal, Telangana | AICTE, UGC Approved",
+          "Branch": "B Tech Mechanical Engineering",
+          "Cutoff": "JEE Main 2023 Cutoff: 175",
+          "Logo": "https://seeklogo.com/images/I/iit-kharagpur-logo-731A3C2EF1-seeklogo.com.png"
+        },
+        "Course Fees (Rs)": "520,000",
+        "Placement": "80%",
+        "User Review": "3.3",
+        "Ranking": 16
+      },
+      {
+        "CD Rank": 17,
+        "College": {
+          "Name": "Indian Institute of Technology Jammu",
+          "Address": "Jammu, Jammu & Kashmir | AICTE, UGC Approved",
+          "Branch": "B Tech Civil Engineering",
+          "Cutoff": "JEE Advanced 2023 Cutoff: 180",
+          "Logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTtRu4KP6B3IupNAufFzZioH7kL-3FHLnFFAg&s"
+        },
+        "Course Fees (Rs)": "790,000",
+        "Placement": "79%",
+        "User Review": "3.2",
+        "Ranking": 17
+      },
+      {
+        "CD Rank": 18,
+        "College": {
+          "Name": "National Institute of Technology Calicut",
+          "Address": "Calicut, Kerala | AICTE, UGC Approved",
+          "Branch": "B Tech Electronics and Communication Engineering",
+          "Cutoff": "JEE Main 2023 Cutoff: 180",
+          "Logo": "https://web.iitd.ac.in/~rbose/images/national/iitm.jpg"
+        },
+        "Course Fees (Rs)": "530,000",
+        "Placement": "78%",
+        "User Review": "3.1",
+        "Ranking": 18
+      },
+      {
+        "CD Rank": 19,
+        "College": {
+          "Name": "Indian Institute of Technology Goa",
+          "Address": "Goa | AICTE, UGC Approved",
+          "Branch": "B Tech Chemical Engineering",
+          "Cutoff": "JEE Advanced 2023 Cutoff: 185",
+          "Logo": "https://qph.cf2.quoracdn.net/main-qimg-6ee87cb2305c449707be97c75177aacb"
+        },
+        "Course Fees (Rs)": "780,000",
+        "Placement": "77%",
+        "User Review": "3.0",
+        "Ranking": 19
+      },
+      {
+        "CD Rank": 20,
+        "College": {
+          "Name": "Indian Institute of Technology Patna",
+          "Address": "Patna, Bihar | AICTE, UGC Approved",
+          "Branch": "B Tech Aerospace Engineering",
+          "Cutoff": "JEE Advanced 2023 Cutoff: 190",
+          "Logo": "https://upload.wikimedia.org/wikipedia/en/thumb/1/1d/Indian_Institute_of_Technology_Bombay_Logo.svg/1200px-Indian_Institute_of_Technology_Bombay_Logo.svg.png"
+        },
+        "Course Fees (Rs)": "770,000",
+        "Placement": "76%",
+        "User Review": "2.9",
+        "Ranking": 20
+      },
+      {
+        "CD Rank": 21,
+        "College": {
+          "Name": "Indian Institute of Technology Palakkad",
+          "Address": "Palakkad, Kerala | AICTE, UGC Approved",
+          "Branch": "B Tech Biotechnology",
+          "Cutoff": "JEE Advanced 2023 Cutoff: 195",
+          "Logo": "https://upload.wikimedia.org/wikipedia/en/thumb/f/fd/Indian_Institute_of_Technology_Delhi_Logo.svg/1200px-Indian_Institute_of_Technology_Delhi_Logo.svg.png"
+        },
+        "Course Fees (Rs)": "760,000",
+        "Placement": "75%",
+        "User Review": "2.8",
+        "Ranking": 21
+      },
+      {
+        "CD Rank": 22,
+        "College": {
+          "Name": "National Institute of Technology Rourkela",
+          "Address": "Rourkela, Odisha | AICTE, UGC Approved",
+          "Branch": "B Tech Metallurgical and Materials Engineering",
+          "Cutoff": "JEE Main 2023 Cutoff: 195",
+          "Logo": "https://seeklogo.com/images/I/iit-kharagpur-logo-731A3C2EF1-seeklogo.com.png"
+        },
+        "Course Fees (Rs)": "540,000",
+        "Placement": "74%",
+        "User Review": "2.7",
+        "Ranking": 22
+      },
+      {
+        "CD Rank": 23,
+        "College": {
+          "Name": "Indian Institute of Technology Bhimavaram",
+          "Address": "Bhimavaram, Andhra Pradesh | AICTE, UGC Approved",
+          "Branch": "B Tech Civil Engineering",
+          "Cutoff": "JEE Advanced 2023 Cutoff: 200",
+          "Logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTtRu4KP6B3IupNAufFzZioH7kL-3FHLnFFAg&s"
+        },
+        "Course Fees (Rs)": "750,000",
+        "Placement": "73%",
+        "User Review": "2.6",
+        "Ranking": 23
+      },
+      {
+        "CD Rank": 24,
+        "College": {
+          "Name": "National Institute of Technology Hamirpur",
+          "Address": "Hamirpur, Himachal Pradesh | AICTE, UGC Approved",
+          "Branch": "B Tech Computer Science And Engineering",
+          "Cutoff": "JEE Main 2023 Cutoff: 200",
+          "Logo": "https://web.iitd.ac.in/~rbose/images/national/iitm.jpg"
+        },
+        "Course Fees (Rs)": "550,000",
+        "Placement": "72%",
+        "User Review": "2.5",
+        "Ranking": 24
+      },
+      {
+        "CD Rank": 25,
+        "College": {
+          "Name": "Indian Institute of Technology Srinagar",
+          "Address": "Srinagar, Jammu & Kashmir | AICTE, UGC Approved",
+          "Branch": "B Tech Mechanical Engineering",
+          "Cutoff": "JEE Advanced 2023 Cutoff: 205",
+          "Logo": "https://qph.cf2.quoracdn.net/main-qimg-6ee87cb2305c449707be97c75177aacb"
+        },
+        "Course Fees (Rs)": "740,000",
+        "Placement": "71%",
+        "User Review": "2.4",
+        "Ranking": 25
+      },
+      {
+        "CD Rank": 26,
+        "College": {
+          "Name": "Indian Institute of Technology Tirupati",
+          "Address": "Tirupati, Andhra Pradesh | AICTE, UGC Approved",
+          "Branch": "B Tech Electrical Engineering",
+          "Cutoff": "JEE Advanced 2023 Cutoff: 210",
+          "Logo": "https://upload.wikimedia.org/wikipedia/en/thumb/1/1d/Indian_Institute_of_Technology_Bombay_Logo.svg/1200px-Indian_Institute_of_Technology_Bombay_Logo.svg.png"
+        },
+        "Course Fees (Rs)": "740,000",
+        "Placement": "71%",
+        "User Review": "2.4",
+        "Ranking": 26
+      },
+      {
+        "CD Rank": 27,
+        "College": {
+          "Name": "National Institute of Technology Silchar",
+          "Address": "Silchar, Assam | AICTE, UGC Approved",
+          "Branch": "B Tech Electronics and Communication Engineering",
+          "Cutoff": "JEE Main 2023 Cutoff: 210",
+          "Logo": "https://upload.wikimedia.org/wikipedia/en/thumb/f/fd/Indian_Institute_of_Technology_Delhi_Logo.svg/1200px-Indian_Institute_of_Technology_Delhi_Logo.svg.png"
+        },
+        "Course Fees (Rs)": "560,000",
+        "Placement": "70%",
+        "User Review": "2.3",
+        "Ranking": 27
+      },
+      {
+        "CD Rank": 28,
+        "College": {
+          "Name": "Indian Institute of Technology Dharwad",
+          "Address": "Dharwad, Karnataka | AICTE, UGC Approved",
+          "Branch": "B Tech Chemical Engineering",
+          "Cutoff": "JEE Advanced 2023 Cutoff: 215",
+          "Logo": "https://seeklogo.com/images/I/iit-kharagpur-logo-731A3C2EF1-seeklogo.com.png"
+        },
+        "Course Fees (Rs)": "730,000",
+        "Placement": "69%",
+        "User Review": "2.2",
+        "Ranking": 28
+      },
+      {
+        "CD Rank": 29,
+        "College": {
+          "Name": "Indian Institute of Technology Jodhpur",
+          "Address": "Jodhpur, Rajasthan | AICTE, UGC Approved",
+          "Branch": "B Tech Biotechnology",
+          "Cutoff": "JEE Advanced 2023 Cutoff: 220",
+          "Logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTtRu4KP6B3IupNAufFzZioH7kL-3FHLnFFAg&s"
+        },
+        "Course Fees (Rs)": "720,000",
+        "Placement": "68%",
+        "User Review": "2.1",
+        "Ranking": 29
+      },
+      {
+        "CD Rank": 30,
+        "College": {
+          "Name": "National Institute of Technology Meghalaya",
+          "Address": "Meghalaya | AICTE, UGC Approved",
+          "Branch": "B Tech Civil Engineering",
+          "Cutoff": "JEE Main 2023 Cutoff: 220",
+          "Logo": "https://web.iitd.ac.in/~rbose/images/national/iitm.jpg"
+        },
+        "Course Fees (Rs)": "570,000",
+        "Placement": "67%",
+        "User Review": "2.0",
+        "Ranking": 30
+      },
+      {
+        "CD Rank": 31,
+        "College": {
+          "Name": "Indian Institute of Technology Gandhinagar",
+          "Address": "Gandhinagar, Gujarat | AICTE, UGC Approved",
+          "Branch": "B Tech Aerospace Engineering",
+          "Cutoff": "JEE Advanced 2023 Cutoff: 225",
+          "Logo":"https://qph.cf2.quoracdn.net/main-qimg-6ee87cb2305c449707be97c75177aacb"
+        },
+        "Course Fees (Rs)": "710,000",
+        "Placement": "66%",
+        "User Review": "1.9",
+        "Ranking": 31
+      },
+      {
+        "CD Rank": 32,
+        "College": {
+          "Name": "Indian Institute of Technology Bhubaneswar",
+          "Address": "Bhubaneswar, Odisha | AICTE, UGC Approved",
+          "Branch": "B Tech Electronics and Communication Engineering",
+          "Cutoff": "JEE Advanced 2023 Cutoff: 230",
+          "Logo": "https://upload.wikimedia.org/wikipedia/en/thumb/1/1d/Indian_Institute_of_Technology_Bombay_Logo.svg/1200px-Indian_Institute_of_Technology_Bombay_Logo.svg.png"
+        },
+        "Course Fees (Rs)": "700,000",
+        "Placement": "65%",
+        "User Review": "1.8",
+        "Ranking": 32
+      },
+      {
+        "CD Rank": 33,
+        "College": {
+          "Name": "National Institute of Technology Uttarakhand",
+          "Address": "Uttarakhand | AICTE, UGC Approved",
+          "Branch": "B Tech Chemical Engineering",
+          "Cutoff": "JEE Main 2023 Cutoff: 230",
+          "Logo": "https://upload.wikimedia.org/wikipedia/en/thumb/f/fd/Indian_Institute_of_Technology_Delhi_Logo.svg/1200px-Indian_Institute_of_Technology_Delhi_Logo.svg.png"
+        },
+        "Course Fees (Rs)": "580,000",
+        "Placement": "64%",
+        "User Review": "1.7",
+        "Ranking": 33
+      },
+      {
+        "CD Rank": 34,
+        "College": {
+          "Name": "Indian Institute of Technology Hyderabad",
+          "Address": "Hyderabad, Telangana | AICTE, UGC Approved",
+          "Branch": "B Tech Electrical Engineering",
+          "Cutoff": "JEE Advanced 2023 Cutoff: 235",
+          "Logo": "https://seeklogo.com/images/I/iit-kharagpur-logo-731A3C2EF1-seeklogo.com.png"
+        },
+        "Course Fees (Rs)": "690,000",
+        "Placement": "63%",
+        "User Review": "1.6",
+        "Ranking": 34
+      },
+      {
+        "CD Rank": 35,
+        "College": {
+          "Name": "Indian Institute of Technology (BHU) Varanasi",
+          "Address": "Varanasi, Uttar Pradesh | AICTE, UGC Approved",
+          "Branch": "B Tech Mechanical Engineering",
+          "Cutoff": "JEE Advanced 2023 Cutoff: 240",
+          "Logo": "https://www.pngkit.com/png/detail/802-8025099_advertisement-iit-bombay-logo.png"
+        },
+        "Course Fees (Rs)": "680,000",
+        "Placement": "62%",
+        "User Review": "1.5",
+        "Ranking": 35
+      },
+      {
+        "CD Rank": 36,
+        "College": {
+          "Name": "National Institute of Technology Goa",
+          "Address": "Farmagudi, Goa | AICTE, UGC Approved",
+          "Branch": "B Tech Computer Science And Engineering",
+          "Cutoff": "JEE Main 2023 Cutoff: 240",
+          "Logo": "https://qph.cf2.quoracdn.net/main-qimg-6ee87cb2305c449707be97c75177aacb"
+        },
+        "Course Fees (Rs)": "590,000",
+        "Placement": "61%",
+        "User Review": "1.4",
+        "Ranking": 36
+      },
+      {
+        "CD Rank": 37,
+        "College": {
+          "Name": "Indian Institute of Technology Dhanbad",
+          "Address": "Dhanbad, Jharkhand | AICTE, UGC Approved",
+          "Branch": "B Tech Petroleum Engineering",
+          "Cutoff": "JEE Advanced 2023 Cutoff: 245",
+          "Logo": "https://upload.wikimedia.org/wikipedia/en/thumb/1/1d/Indian_Institute_of_Technology_Bombay_Logo.svg/1200px-Indian_Institute_of_Technology_Bombay_Logo.svg.png"
+        },
+        "Course Fees (Rs)": "670,000",
+        "Placement": "60%",
+        "User Review": "1.3",
+        "Ranking": 37
+      },
+      {
+        "CD Rank": 38,
+        "College": {
+          "Name": "National Institute of Technology Arunachal Pradesh",
+          "Address": "Yupia, Arunachal Pradesh | AICTE, UGC Approved",
+          "Branch": "B Tech Metallurgical and Materials Engineering",
+          "Cutoff": "JEE Main 2023 Cutoff: 245",
+          "Logo": "https://upload.wikimedia.org/wikipedia/en/thumb/f/fd/Indian_Institute_of_Technology_Delhi_Logo.svg/1200px-Indian_Institute_of_Technology_Delhi_Logo.svg.png"
+        },
+        "Course Fees (Rs)": "600,000",
+        "Placement": "59%",
+        "User Review": "1.2",
+        "Ranking": 38
+      },
+      {
+        "CD Rank": 39,
+        "College": {
+          "Name": "Indian Institute of Technology Bhilai",
+          "Address": "Bhilai, Chhattisgarh | AICTE, UGC Approved",
+          "Branch": "B Tech Electronics and Communication Engineering",
+          "Cutoff": "JEE Advanced 2023 Cutoff: 250",
+          "Logo": "https://seeklogo.com/images/I/iit-kharagpur-logo-731A3C2EF1-seeklogo.com.png"
+        },
+        "Course Fees (Rs)": "660,000",
+        "Placement": "58%",
+        "User Review": "1.1",
+        "Ranking": 39
+      },
+      {
+        "CD Rank": 40,
+        "College": {
+          "Name": "Indian Institute of Technology Goa",
+          "Address": "Goa | AICTE, UGC Approved",
+          "Branch": "B Tech Mechanical Engineering",
+          "Cutoff": "JEE Advanced 2023 Cutoff: 255",
+          "Logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTtRu4KP6B3IupNAufFzZioH7kL-3FHLnFFAg&s"
+        },
+        "Course Fees (Rs)": "650,000",
+        "Placement": "57%",
+        "User Review": "1.0",
+        "Ranking": 40
+      },
+      {
+        "CD Rank": 41,
+        "College": {
+          "Name": "National Institute of Technology Sikkim",
+          "Address": "Ravangla, Sikkim | AICTE, UGC Approved",
+          "Branch": "B Tech Electrical Engineering",
+          "Cutoff": "JEE Main 2023 Cutoff: 255",
+          "Logo": "https://web.iitd.ac.in/~rbose/images/national/iitm.jpg"
+        },
+        "Course Fees (Rs)": "610,000",
+        "Placement": "56%",
+        "User Review": "0.9",
+        "Ranking": 41
+      },
+      {
+        "CD Rank": 42,
+        "College": {
+          "Name": "Indian Institute of Technology Mandi",
+          "Address": "Mandi, Himachal Pradesh | AICTE, UGC Approved",
+          "Branch": "B Tech Biotechnology",
+          "Cutoff": "JEE Advanced 2023 Cutoff: 260",
+          "Logo": "https://qph.cf2.quoracdn.net/main-qimg-6ee87cb2305c449707be97c75177aacb"
+        },
+        "Course Fees (Rs)": "640,000",
+        "Placement": "55%",
+        "User Review": "0.8",
+        "Ranking": 42
+      },
+      {
+        "CD Rank": 43,
+        "College": {
+          "Name": "Indian Institute of Technology Bhimavaram",
+          "Address": "Bhimavaram, Andhra Pradesh | AICTE, UGC Approved",
+          "Branch": "B Tech Civil Engineering",
+          "Cutoff": "JEE Advanced 2023 Cutoff: 265",
+          "Logo": "https://upload.wikimedia.org/wikipedia/en/thumb/1/1d/Indian_Institute_of_Technology_Bombay_Logo.svg/1200px-Indian_Institute_of_Technology_Bombay_Logo.svg.png"
+        },
+        "Course Fees (Rs)": "630,000",
+        "Placement": "54%",
+        "User Review": "0.7",
+        "Ranking": 43
+      },
+      {
+        "CD Rank": 44,
+        "College": {
+          "Name": "National Institute of Technology Manipur",
+          "Address": "Imphal, Manipur | AICTE, UGC Approved",
+          "Branch": "B Tech Computer Science And Engineering",
+          "Cutoff": "JEE Main 2023 Cutoff: 265",
+          "Logo": "https://upload.wikimedia.org/wikipedia/en/thumb/f/fd/Indian_Institute_of_Technology_Delhi_Logo.svg/1200px-Indian_Institute_of_Technology_Delhi_Logo.svg.png"
+        },
+        "Course Fees (Rs)": "620,000",
+        "Placement": "53%",
+        "User Review": "0.6",
+        "Ranking": 44
+      },
+      {
+        "CD Rank": 45,
+        "College": {
+          "Name": "Indian Institute of Technology Ropar",
+          "Address": "Rupnagar, Punjab | AICTE, UGC Approved",
+          "Branch": "B Tech Petroleum Engineering",
+          "Cutoff": "JEE Advanced 2023 Cutoff: 270",
+          "Logo": "https://seeklogo.com/images/I/iit-kharagpur-logo-731A3C2EF1-seeklogo.com.png"
+        },
+        "Course Fees (Rs)": "620,000",
+        "Placement": "53%",
+        "User Review": "0.6",
+        "Ranking": 45
+      },
+      {
+        "CD Rank": 46,
+        "College": {
+          "Name": "Indian Institute of Technology Palakkad",
+          "Address": "Palakkad, Kerala | AICTE, UGC Approved",
+          "Branch": "B Tech Metallurgical Engineering",
+          "Cutoff": "JEE Advanced 2023 Cutoff: 275",
+          "Logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTtRu4KP6B3IupNAufFzZioH7kL-3FHLnFFAg&s"
+        },
+        "Course Fees (Rs)": "610,000",
+        "Placement": "52%",
+        "User Review": "0.5",
+        "Ranking": 46
+      },
+      {
+        "CD Rank": 47,
+        "College": {
+          "Name": "National Institute of Technology Durgapur",
+          "Address": "Durgapur, West Bengal | AICTE, UGC Approved",
+          "Branch": "B Tech Aerospace Engineering",
+          "Cutoff": "JEE Main 2023 Cutoff: 275",
+          "Logo": "https://web.iitd.ac.in/~rbose/images/national/iitm.jpg"
+        },
+        "Course Fees (Rs)": "600,000",
+        "Placement": "51%",
+        "User Review": "0.4",
+        "Ranking": 47
+      },
+      {
+        "CD Rank": 48,
+        "College": {
+          "Name": "Indian Institute of Technology Jammu",
+          "Address": "Jammu, Jammu & Kashmir | AICTE, UGC Approved",
+          "Branch": "B Tech Electronics and Communication Engineering",
+          "Cutoff": "JEE Advanced 2023 Cutoff: 280",
+          "Logo": "https://qph.cf2.quoracdn.net/main-qimg-6ee87cb2305c449707be97c75177aacb"
+        },
+        "Course Fees (Rs)": "590,000",
+        "Placement": "50%",
+        "User Review": "0.3",
+        "Ranking": 48
+      },
+      {
+        "CD Rank": 49,
+        "College": {
+          "Name": "Indian Institute of Technology Patna",
+          "Address": "Patna, Bihar | AICTE, UGC Approved",
+          "Branch": "B Tech Chemical Engineering",
+          "Cutoff": "JEE Advanced 2023 Cutoff: 280",
+          "Logo": "https://upload.wikimedia.org/wikipedia/en/thumb/1/1d/Indian_Institute_of_Technology_Bombay_Logo.svg/1200px-Indian_Institute_of_Technology_Bombay_Logo.svg.png"
+        },
+        "Course Fees (Rs)": "580,000",
+        "Placement": "49%",
+        "User Review": "0.2",
+        "Ranking": 49
+      },
+      {
+        "CD Rank": 50,
+        "College": {
+          "Name": "National Institute of Technology Nagaland",
+          "Address": "Dimapur, Nagaland | AICTE, UGC Approved",
+          "Branch": "B Tech Biotechnology",
+          "Cutoff": "JEE Main 2023 Cutoff: 280",
+          "Logo": "https://upload.wikimedia.org/wikipedia/en/thumb/f/fd/Indian_Institute_of_Technology_Delhi_Logo.svg/1200px-Indian_Institute_of_Technology_Delhi_Logo.svg.png"
+        },
+        "Course Fees (Rs)": "590,000",
+        "Placement": "48%",
+        "User Review": "0.1",
+        "Ranking": 50
+      }
+    ]
+  }
